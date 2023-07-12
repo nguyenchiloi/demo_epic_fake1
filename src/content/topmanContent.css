@@ -1,0 +1,80 @@
+.topmain-title{
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3%;
+    color: white;
+
+}
+.topmain-sale{
+    display: flex;
+    justify-content: space-between;
+}
+.gameonsale{
+    font-size: 20px;
+}
+.btn-chuyen{
+    background-color: #202020 !important;
+    color: white !important;
+    margin-left: 15px !important;
+    border-radius: 50px !important;
+    height: 35px !important;
+    width: 35px !important;
+    border-style: hidden !important;
+}
+.topmain-img{
+    height: 250px;
+    object-fit: cover;
+}
+.font-base{
+    font-size: 8px !important;
+    color: gray !important;
+}
+.font-title{
+    color: white !important;
+}
+.btnStock{
+    font-size: 12px !important;
+}
+.title-text{
+    display: flex;
+    align-items: center;
+}
+.item-price-sale{
+    padding: 0 15px;
+    text-decoration-line: line-through;
+    color: gray;
+    font-size: 15px !important;
+}
+.item-price{
+    color: white;
+    font-size: 15px !important;
+}
+.m-img{
+    border-radius: 15px;
+}
+.gamesale{
+    position: relative;
+    width: auto;
+    overflow-x: hidden;
+    display: flex;
+    white-space: nowrap;
+}
+.card{
+    position: relative;
+}
+.card:hover::before{
+    content: '';
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    top: 20px;
+    right: 20px;
+    background-color: black;
+    border-radius: 50px;
+    border: 3px solid white;
+}
+.card:hover{
+    background-color: white;
+    opacity: 0.5;
+}

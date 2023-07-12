@@ -1,0 +1,26 @@
+.main{
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.main-img{
+    border-radius: 10px;
+}
+.main-include{
+    display: flex;
+    align-items: center;
+    padding: 20px 20px;
+}
+.main-include:hover{
+    background-color: #313030;
+    border-radius: 10px;
+}
+.mainImg-nd{
+    width: 35px;
+    height: 45px;
+    border-radius: 10px;
+}
+.main-title{
+    padding-left: 10px;
+    color: white;
+}

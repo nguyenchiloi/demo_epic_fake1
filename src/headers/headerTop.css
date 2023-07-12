@@ -1,0 +1,44 @@
+.Top{
+    background-color: #2a2a2a;
+    padding-top: 10px;
+    padding-left: 20px;
+    display: flex;
+    align-items: center;
+}
+.logoEpic{
+    height: 40px;
+    width: 35px;
+    padding-bottom: 5px;
+}
+.headerStore{
+    color: #adadad;
+    border-bottom: solid 5px #0078f2;
+    margin-left: 20px;
+    font-size: 12px;
+    padding: 0 20px;
+}
+p{
+    font-weight: 500;
+    margin-top: 12px !important;
+}
+p:hover{
+    color: white;
+}
+.headerLast{
+    color: #adadad;
+    font-size: 12px;
+    padding: 0 20px;
+    margin-bottom: 5px;
+}
+.headerLast:hover{
+    border-bottom: solid 5px #0078f2;
+    margin-bottom: 0;
+}
+.headerLine{
+    width: 1px;
+    height: 35px;
+    background-color: #adadad;
+    margin-left: 20px;
+    margin-bottom: 15px;
+    margin-right: 20px;
+}

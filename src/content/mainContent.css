@@ -1,0 +1,117 @@
+.mainContent{
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.main-img:hover{
+    /* background-color: white; */
+    opacity: 0.5;
+}
+.mainContent>.main-title{
+    font-size: 24px;
+}
+.main-description{
+    font-size: 16px;
+    color: gray;
+    padding-left: 10px;
+}
+.main-price{
+    font-size: 24px;
+    color: white;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+.mainfreeg{
+    background-color: #2a2a2a;
+    padding: 20px 40px !important;
+}
+.mainfreeGame{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+.NamefreeGame{
+    color: white !important;
+    font-size: 20px !important;
+}
+.viewmorefg{
+    border: 1px solid white;
+    background-color: #2a2a2a;
+    color: white;
+    padding: 5px 20px !important;
+    border-radius: 10px;
+    font-weight: 500;
+}
+.click-free{
+    background-color: #0078f2;
+    text-align: center;
+    color: white;
+    font-size: 16px;
+}
+.click-coming{
+    background-color: black;
+    text-align: center;
+    color: white;
+    font-size: 16px;
+}
+.mainGame{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 0;
+}
+.NameGame{
+    color: white;
+    font-size: 16px;
+}
+.btnGame{
+    border: 1px solid white;
+    background-color: #2a2a2a;
+    color: white;
+    padding: 5px 20px !important;
+    border-radius: 10px;
+    font-weight: 500;
+    font-size: 12px;
+}
+.topsellers{
+    display: flex;
+    justify-content: space-between;
+}
+.nametopsellers{
+    color: white;
+    font-size: 20px;
+}
+.mostplayer{
+    display: flex;
+    justify-content: space-between;
+}
+.namemostplayer{
+    color: white;
+    font-size: 20px;
+}
+.topupcoming{
+    display: flex;
+    justify-content: space-between;
+}
+.maintopmore{
+    width: 60px;
+    height: 80px;
+}
+.topmore-data{
+    align-items: center;
+    margin-bottom: 20px;
+    color: white;
+}
+.price-topmore{
+    font-size: 12px;
+}
+.topmore-data:hover{
+    background-color: #313030;
+    border-radius: 10px;
+}
+.img-bestgame{
+    border-radius: 20px;
+}
+.bestgame-description{
+    color: gray;
+}
